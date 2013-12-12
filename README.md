@@ -1,3 +1,13 @@
+# Open Source Offsets brand materials
+
+Designs for logos, icons, paintings, mascots, tshirts, stickers, et al.
+
+## Creators
+
+### El Oso Paintings
+
+By [Anneke Hiatt](http://anneke.me "Anneke Hiatt | Watercolor Painter. Asset Artist.") / ([@awnukuh](https://github.com/awnuhkuh))
+
 ## License
 
 
